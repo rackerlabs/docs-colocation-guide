@@ -1,0 +1,8 @@
+{
+  "contentIDBase": "https://github.com/rackerlabs/docs-colocation-guide",
+  "githubUrl": "https://github.com/rackerlabs/docs-colocation-guide/",
+  "githubBranch": "master",
+  "meta": {
+    "preferGithubIssues": true
+  }
+}
