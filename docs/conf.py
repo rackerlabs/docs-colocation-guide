@@ -127,7 +127,7 @@ rst_epilog = """
 .. |service| replace:: Rackspace Colocation Guide
 .. |api-service| replace:: <officialProjectName API>
 .. |contract version| replace:: <version>
-.. |product name| replace:: <PRODUCT NAME>
+.. |product name| replace:: Rackspace Colocation
 """
 
 # sphinxcontrib-versioning options
