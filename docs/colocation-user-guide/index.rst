@@ -1,8 +1,8 @@
 .. _index-xxx-ug:
 
-======================================
-Rackspace |product name| vN User Guide
-======================================
+===================================
+Rackspace |product name| User Guide
+===================================
 
 *Last updated:* |today|
 
