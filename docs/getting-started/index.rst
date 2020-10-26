@@ -23,3 +23,4 @@ product.
    installation.rst
    accessing.rst
    portal-navigation.rst
+   submitting-tickets.rst
