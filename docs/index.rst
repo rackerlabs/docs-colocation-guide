@@ -43,7 +43,7 @@ This guide contains the following sections:
 
    self
    about-teams.rst
-   pre-go-live/index.rst
+   getting-started/index.rst
    post-go-live/index.rst
    getting-help/index.rst
    appendix.rst
