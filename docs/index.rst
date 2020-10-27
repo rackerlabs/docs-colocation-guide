@@ -1,8 +1,8 @@
-.. _dpx_handbook:
+.. _colocation_guide:
 
-===============================================================
-RAS Digital Experience Application Operations Customer Handbook
-===============================================================
+===================================
+Rackspace Colocation Customer Guide
+===================================
 
 *Last updated:* |today|
 
