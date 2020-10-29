@@ -21,7 +21,7 @@ product.
    :maxdepth: 1
 
    installation.rst
-   accessing.rst
+   access.rst
    portal-navigation.rst
-   submitting-tickets.rst
+   submit-tickets.rst
    billing.rst
