@@ -21,7 +21,7 @@ product.
    :maxdepth: 1
 
    installation.rst
-   access.rst
+   datacenter-access/index.rst
    portal-navigation.rst
    submit-tickets.rst
    billing.rst
