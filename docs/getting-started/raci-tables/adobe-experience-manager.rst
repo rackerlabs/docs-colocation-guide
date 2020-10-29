@@ -1,11 +1,16 @@
 .. _adobe_experience_manager:
 
-========================
-Adobe Experience Manager
-========================
+======
+Access
+======
 
-The following table lists service relationships (roles and responsibilities)
-for Adobe Experience Manager:
+Access
+
+Your implementation leader will help you register employees requiring access to
+the colocation data center. Registered personnel must visit the facility to
+finalize their registration (including biometric security) and receive their
+badge. 
+
 
 +--------------------------------------------+--------------------------+-------------------------+-------------------------+-------------+
 | Tasks                                      | RAS Digital Experience:  | RAS Digital Experience: | RAS Digital Experience: | Customer/SI |

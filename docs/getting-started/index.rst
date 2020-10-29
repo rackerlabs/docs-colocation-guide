@@ -24,3 +24,4 @@ product.
    accessing.rst
    portal-navigation.rst
    submitting-tickets.rst
+   billing.rst

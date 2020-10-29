@@ -6,33 +6,21 @@ Rackspace Colocation Customer Guide
 
 *Last updated:* |today|
 
-Rackspace Application Services (RAS) Digital Experience Application
-Operations is the Rackspace managed-services suite of offerings for digital
-experience platforms (web content management and eCommerce) as well as any
-Java™ or .Net-based applications.
-
-Fully-managed services include Rackspace expert
-consulting, proactive monitoring, troubleshooting, and managing your
-applications. It also now includes options for the Application
-Performance Management (APM) tools suite, enabling you to choose tools based on
-your preference and need for advanced business intelligence and budget.
-
-
-You can choose to only have access to Rackspace experts without the other
-benefits of a fully-managed experience, if you don't want fully-managed
-services and you use one or more of the following:
-
-- Sitecore® and  Sitecore Commerce,
-- Adobe® Experience Manager,
-- SAP® Hybris,
-- Oracle® cCommerce/ATG
+Rackspace Technology Colocation allows you to secure infrastructure you
+own within Rackspace Technology™ data centers. This eliminates the costs
+associated with operating and managing a data center of your own
+and brings hardware within reach of global multi-cloud networks. These services
+are available in North America, Europe, Middle East, Africa (EMEA),
+Asia Pacific, and Japan (APJ). Customers retain management of their hardware,
+but Smart Hands is available as a complimentary service that provides
+colocation customers access to a highly trained team of technicians and
+engineers available 24x7x365 for routine physical tasks.
 
 This guide contains the following sections:
 
-- :ref:`about_teams`
+- :ref:`getting-started`
 - :ref:`pre_go_live`
 - :ref:`post_go_live`
-- :ref:`getting_help`
 - :ref:`appendix`
 
 ----
