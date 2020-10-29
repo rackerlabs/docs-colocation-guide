@@ -1,8 +1,8 @@
-.. _access:
+.. _datacenter_access:
 
-======
-Access
-======
+=================
+Datacenter access
+=================
 
 Most Rackspace Colocation data centers allow customers to physically access
 their critical environment with three exceptions (see chart below) once they are
@@ -50,3 +50,9 @@ conducted through our Smart Hands service (see Smart Hands). :
    * - SYD2
      -
      - X
+
+
+.. toctree::
+  :maxdepth: 1
+
+  datacenter_training.rst
