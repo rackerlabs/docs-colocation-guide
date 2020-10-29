@@ -18,7 +18,7 @@ This section provides information about getting started with the |product name|
 product.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    installation.rst
    datacenter-access/index.rst
