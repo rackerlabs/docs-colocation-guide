@@ -1,58 +1,23 @@
-.. _datacenter_access:
+.. _access:
 
-=================
-Datacenter access
-=================
+==============================
+Datacenter access and training
+==============================
 
-Most Rackspace Colocation data centers allow customers to physically access
-their critical environment with three exceptions (see chart below) once they are
-fully registered for facility access. Under no circumstance are customers or
-their vendors allowed to enter the critical environment in these “remote access”
-facilities. All physical work, including installation, must executed must be
-conducted through our Smart Hands service (see Smart Hands). :
+.. Define |product name| in conf.py
 
-.. list-table::
-   :header-rows: 1
+In our effort to provide customers a Fanatical Experience®, every Rackspace
+customer is provided a dedicated implementation leader to guide you through the
+implementation process. The implementation leader will contact you directly and
+let you know when the colocation environment will be ready to accommodate your
+deployment. Together, you will establish a move-in date for your colocation
+deployment and the implementation leader will serve as primary liaison between
+you and the data center operations team.
 
-   * - Data Center
-     - Physical Access
-     - Remote Access
-   * - DFW3
-     - X
-     -
-   * - HKG1
-     - X
-     -
-   * - IAD3
-     -
-     - X
-   * - LON3
-     -
-     - X
-   * - LON5
-     - X
-     -
-   * - MCI1
-     - X
-     -
-   * - NYC1
-     - X
-     -
-   * - NYC2
-     - X
-     -
-   * - ORD1
-     - X
-     -
-   * - SJC2
-     - X
-     -
-   * - SYD2
-     -
-     - X
-
+This section provides information about getting started with the |product name|
+product.
 
 .. toctree::
-  :maxdepth: 1
+   :maxdepth: 1
 
-  datacenter_training.rst
+   datacenter_training.rst
