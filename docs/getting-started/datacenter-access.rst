@@ -4,6 +4,8 @@
 Datacenter access and training
 ==============================
 
+Datacenter access
+-----------------
 .. Define |product name| in conf.py
 
 In our effort to provide customers a Fanatical Experience®, every Rackspace
@@ -14,6 +16,46 @@ deployment. Together, you will establish a move-in date for your colocation
 deployment and the implementation leader will serve as primary liaison between
 you and the data center operations team.
 
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Data Center
+     - Physical Access
+     - Remote Access
+   * - DFW3
+     - X
+     -
+   * - HKG1
+     - X
+     -
+   * - IAD3
+     -
+     - X
+   * - LON3
+     -
+     - X
+   * - LON5
+     - X
+     -
+   * - MCI1
+     - X
+     -
+   * - NYC1
+     - X
+     -
+   * - NYC2
+     - X
+     -
+   * - ORD1
+     - X
+     -
+   * - SJC2
+     - X
+     -
+   * - HKG1
+     -
+     - X
 
 Datacenter facility safety training
 -----------------------------------
