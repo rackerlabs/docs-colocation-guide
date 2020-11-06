@@ -14,9 +14,9 @@ deployment. Together, you will establish a move-in date for your colocation
 deployment and the implementation leader will serve as primary liaison between
 you and the data center operations team.
 
-===================================
+
 Datacenter facility safety training
-===================================
+-----------------------------------
 
 DC Facility Engineering will issue data center safety training to all
 Colocation customers with registered access to the data center.  This will
