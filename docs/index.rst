@@ -19,7 +19,7 @@ engineers available 24x7x365 for routine physical tasks.
 This guide contains the following sections:
 
 - :ref:`getting-started`
-- :ref:`pre_go_live`
+- :ref:`colocation-support`
 - :ref:`post_go_live`
 - :ref:`appendix`
 
@@ -32,6 +32,6 @@ This guide contains the following sections:
    self
    about-teams.rst
    getting-started/index.rst
-   post-go-live/index.rst
+   colocation-support/index.rst
    getting-help/index.rst
    appendix.rst

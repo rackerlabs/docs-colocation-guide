@@ -26,7 +26,7 @@ continues to run smoothly after you go live.
 .. toctree::
    :maxdepth: 1
 
-   request-maintenance.rst
+   smart-hands-support.rst
    identify-deployment.rst
    high-volume-events.rst
    resolve-emergency.rst
