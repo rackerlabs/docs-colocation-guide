@@ -14,9 +14,11 @@ Smart Hands requests include the following list of tasks and estimated time to
 complete:
 
 Onsite Technical Assistance and Troubleshooting
+
 	- Power cycling a router, server, or switch (30 Minutes)
   - Providing visual verifications to assist in remote troubleshooting
-    (30 Minutes for visual verification + any additional time for troubleshooting)
+    (30 Minutes for visual verification + any additional time for
+    troubleshooting)
   - Swapping tapes (customer provided media and containers) (30 Minutes)
   - Testing cabling media for continuity and proper signaling (60 Minutes
     per 3 cables)
