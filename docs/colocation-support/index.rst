@@ -27,6 +27,4 @@ continues to run smoothly after you go live.
    :maxdepth: 1
 
    smart-hands-support.rst
-   identify-deployment.rst
-   high-volume-events.rst
-   resolve-emergency.rst
+   request_smart_hands.rst
