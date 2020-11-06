@@ -16,7 +16,7 @@ deployment. Together, you will establish a move-in date for your colocation
 deployment and the implementation leader will serve as primary liaison between
 you and the data center operations team.
 
-.. list-table:: Title
+.. list-table:: Physical vs. Remote Data Center Access
    :widths: 25 25 50
    :header-rows: 1
 
