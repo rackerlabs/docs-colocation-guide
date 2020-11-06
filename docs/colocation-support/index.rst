@@ -1,8 +1,8 @@
-.. _post_go_live:
+.. _colocation_support:
 
-=======================
-Post go-live activities
-=======================
+==================
+Colocation Support
+==================
 
 From the moment you go live with your solution, RAS Digital Experience teams
 across all shifts are ready to provide ongoing support. Each Digital

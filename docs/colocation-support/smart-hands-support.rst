@@ -1,4 +1,4 @@
-.. _smart-hands-support:
+.. _smart_hands_support:
 
 ===================
 Smart Hands Support
