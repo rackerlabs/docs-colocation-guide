@@ -27,4 +27,4 @@ continues to run smoothly after you go live.
    :maxdepth: 1
 
    smart-hands-support.rst
-   request_smart_hands.rst
+   request-smart-hands.rst
