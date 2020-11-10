@@ -27,6 +27,20 @@ Onsite Technical Assistance and Troubleshooting
   - Moving or securing cables (60 Minutes per 3 cables)
   - Customer provided cable replacement (60 Minutes per 3 cables)
 
+Hardware Installation and Decommissioning Services
+
+	- Racking and un-racking equipment in customer cabinets (60 Minutes per
+		device)
+	-	Connecting and securing customer provided power cords and removal of power
+		cords (30 Minutes per 3 cables)
+	-	In-cabinet network cabling with customer provided cabling (60 Minutes per 3
+		cables)
+	-	Powering up devices and visual confirmation of hardware status (30 Minutes
+		per 3 devices)
+	-	Installing and removing cabinet-to-cabinet cabling with customer provided
+		cabling (60 Minutes per cable)
+	-	Hard drive and media destruction (30 Minutes per 3 devices)
+
 For all general requests that aren’t Smart Hands, the Customer can select “None”
 under “Type of Request” within the “Colocation Smart Hands and General Support
 Request” within the MyRackspace customer portal and not one of the categories

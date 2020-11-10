@@ -20,6 +20,7 @@ This guide contains the following sections:
 
 - :ref:`getting_started`
 - :ref:`colocation_support`
+- :ref:`about_blended_bandwidth`
 - :ref:`appendix`
 
 ----
@@ -30,4 +31,5 @@ This guide contains the following sections:
 
    getting-started/index.rst
    colocation-support/index.rst
+   blended-bandwidth/index.rst
    appendix.rst
