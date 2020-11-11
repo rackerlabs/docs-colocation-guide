@@ -21,6 +21,7 @@ This guide contains the following sections:
 - :ref:`getting_started`
 - :ref:`colocation_support`
 - :ref:`about_blended_bandwidth`
+- :ref:`_about_rackconnect_global`
 - :ref:`appendix`
 
 ----
@@ -32,4 +33,5 @@ This guide contains the following sections:
    getting-started/index.rst
    colocation-support/index.rst
    blended-bandwidth/index.rst
+   rackconnet-global/index.rst
    appendix.rst
