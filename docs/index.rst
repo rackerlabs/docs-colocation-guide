@@ -21,7 +21,7 @@ This guide contains the following sections:
 - :ref:`getting_started`
 - :ref:`colocation_support`
 - :ref:`about_blended_bandwidth`
-- :ref:`_about_rackconnect_global`
+- :ref:`about_rackconnect_global`
 - :ref:`appendix`
 
 ----
