@@ -20,6 +20,6 @@ Key Features and Benefits:
     Technology will be there from pre-engagement to handoff.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    migrations/migration-phases.rst
