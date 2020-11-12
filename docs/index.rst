@@ -27,12 +27,12 @@ This guide contains the following sections:
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    getting-started/index.rst
    colocation-support/index.rst
    blended-bandwidth/index.rst
    rackconnet-global/index.rst
-   getting-started/migrations
+   getting-started/migrations/index.rst
    appendix.rst
