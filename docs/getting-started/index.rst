@@ -25,4 +25,4 @@ product.
    portal-navigation.rst
    submit-tickets.rst
    billing.rst
-   getting-started/migrations
+   about-migrations.rst
