@@ -27,7 +27,7 @@ This guide contains the following sections:
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    getting-started/index.rst
