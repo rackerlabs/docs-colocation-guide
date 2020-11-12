@@ -17,3 +17,8 @@ Key Features and Benefits:
     service to help you get your hardware to a Rackspace Technology data center,
     so you can kick-start your digital transformation journey. Rackspace
     Technology will be there from pre-engagement to handoff.
+
+.. toctree::
+   :maxdepth: 1
+
+   migration-phases.rst
