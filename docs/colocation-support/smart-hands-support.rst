@@ -63,4 +63,4 @@ facility:
        WPA40
      - Yes
      - No
-*24-hour execution SLA only available Monday thru Friday
+24-hour execution SLA only available Monday thru Friday
