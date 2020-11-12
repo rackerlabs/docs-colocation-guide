@@ -13,12 +13,13 @@ Technology.
 Key Features and Benefits:
 
 -	World-Class Migration
+
   - Rackspace Technology also delivers a white-glove colocation migration
     service to help you get your hardware to a Rackspace Technology data center,
     so you can kick-start your digital transformation journey. Rackspace
     Technology will be there from pre-engagement to handoff.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   migration-phases.rst
+   migrations/migration-phases.rst
