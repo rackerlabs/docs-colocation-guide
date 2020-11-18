@@ -57,4 +57,10 @@ facility:
    * - SYD2
      - Yes
      - Yes
-*24-hour execution SLA only available Monday thru Friday
+   * - AMS41, AMS42, ATL40, BOS40, BOS41, DEN40, CLT40, IAD40, LAX40, MCI40,
+       MIA40, ORD40, NYC40, NYC41, NYC42, NYC43, NYC44, ORD40, PHX40, PHX41,
+       SFO40, SIN40, SJC40, SJC41
+       WPA40
+     - Yes
+     - No
+24-hour execution SLA only available Monday thru Friday

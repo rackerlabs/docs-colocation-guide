@@ -18,10 +18,11 @@ This section provides information about getting started with the |product name|
 product.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    installation.rst
    datacenter-access.rst
    portal-navigation.rst
    submit-tickets.rst
    billing.rst
+   about-migrations.rst

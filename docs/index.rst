@@ -20,14 +20,18 @@ This guide contains the following sections:
 
 - :ref:`getting_started`
 - :ref:`colocation_support`
+- :ref:`about_blended_bandwidth`
+- :ref:`about_rackconnect_global`
 - :ref:`appendix`
 
 ----
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
 
    getting-started/index.rst
    colocation-support/index.rst
+   blended-bandwidth/index.rst
+   rackconnet-global/index.rst
    appendix.rst
