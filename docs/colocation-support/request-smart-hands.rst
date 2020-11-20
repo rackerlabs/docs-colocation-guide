@@ -53,5 +53,4 @@ Hardware Installation and Decommissioning Services
 
 For all general requests that aren’t Smart Hands, the Customer can select “None”
 under “Type of Request” within the “Colocation Smart Hands and General Support
-Request” within the MyRackspace customer portal and not one of the categories
-above.
+Request” within the customer portal and not one of the categories above.
