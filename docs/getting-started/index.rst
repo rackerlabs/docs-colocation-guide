@@ -20,9 +20,9 @@ product.
 .. toctree::
    :maxdepth: 3
 
+   about-migrations.rst
    installation.rst
    datacenter-access.rst
    portal-navigation.rst
    submit-tickets.rst
    billing.rst
-   about-migrations.rst
