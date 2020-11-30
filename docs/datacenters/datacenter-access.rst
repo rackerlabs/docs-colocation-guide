@@ -1,4 +1,4 @@
-.. _datacenter-access:
+.. _datacenter_access:
 
 ==============================
 Datacenter access and training
