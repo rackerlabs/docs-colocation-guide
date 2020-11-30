@@ -20,6 +20,7 @@ This guide contains the following sections:
 
 - :ref:`getting_started`
 - :ref:`about_migrations`
+- :ref:`billing`
 - :ref:`datacenter_access`
 - :ref:`colocation_support`
 - :ref:`about_blended_bandwidth`
@@ -32,6 +33,7 @@ This guide contains the following sections:
    :hidden:
 
    getting-started/index.rst
+   billing/billing.rst
    migrations/about-migrations.rst
    datacenters/datacenter-access.rst
    colocation-support/index.rst
