@@ -31,7 +31,7 @@ This guide contains the following sections:
    :hidden:
 
    getting-started/index.rst
-   migrations/about_migrations.rst
+   migrations/about-migrations.rst
    colocation-support/index.rst
    blended-bandwidth/index.rst
    rackconnet-global/index.rst
