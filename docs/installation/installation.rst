@@ -1,8 +1,8 @@
-.. _installation:
+.. _hardware_installation:
 
-============
-Installation
-============
+=====================
+Hardware Installation
+=====================
 
 The customer will coordinate deliveries with Rackspace Inventory and be
 responsible for receiving, unpacking, and moving their equipment into the DC
