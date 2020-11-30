@@ -19,6 +19,7 @@ engineers available 24x7x365 for routine physical tasks.
 This guide contains the following sections:
 
 - :ref:`getting_started`
+- :ref:`about_migrations`
 - :ref:`colocation_support`
 - :ref:`about_blended_bandwidth`
 - :ref:`about_rackconnect_global`
@@ -30,6 +31,7 @@ This guide contains the following sections:
    :hidden:
 
    getting-started/index.rst
+   migrations/about_migrations.rst
    colocation-support/index.rst
    blended-bandwidth/index.rst
    rackconnet-global/index.rst
