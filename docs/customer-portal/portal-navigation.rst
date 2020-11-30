@@ -1,4 +1,4 @@
-.. _portal-navigation:
+.. _portal_navigation:
 
 =================
 Portal navigation

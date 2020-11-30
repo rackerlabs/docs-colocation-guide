@@ -18,9 +18,9 @@ engineers available 24x7x365 for routine physical tasks.
 
 This guide contains the following sections:
 
-- :ref:`getting_started`
 - :ref:`about_migrations`
 - :ref:`hardware_installation`
+- :ref:`portal_navigation`
 - :ref:`billing`
 - :ref:`datacenter_access`
 - :ref:`colocation_support`
@@ -33,11 +33,11 @@ This guide contains the following sections:
    :maxdepth: 3
    :hidden:
 
-   getting-started/index.rst
-   installation/installation.rst
-   billing/billing.rst
    migrations/about-migrations.rst
+   installation/installation.rst
    datacenters/datacenter-access.rst
+   customer-portal/portal-navigation.rst
+   billing/billing.rst
    colocation-support/index.rst
    blended-bandwidth/index.rst
    rackconnet-global/index.rst
