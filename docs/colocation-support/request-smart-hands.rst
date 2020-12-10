@@ -4,54 +4,53 @@
 Request Smart Hands
 ===================
 
-Smart Hands request types are broken into two categories and estimated time to
-complete each task is listed next to the option. Customers are charged for the
-actual time Data Center Operations requires to complete the request which is
-rounded up to the nearest 15-minutes. The Smart Hands Rate is US$46.25 per 15
+Smart Hands requests types come in two categories, and you can find the estimated time to
+complete each task listed next to the option. Rackspace charges customers for the
+actual time Data Center Operations requires to complete the request, which is
+rounded up to the nearest 15-minutes. The Smart Hands Rate is US $46.25 per 15
 minutes in addition to any bill of materials.
 
 Smart Hands requests include the following list of tasks and estimated time to
 complete:
 
-Onsite Technical Assistance and Troubleshooting
+**Onsite technical assistance and troubleshooting**
 
-	- Power cycling a router, server, or switch (30 Minutes)
+  - Power cycling a router, server, or switch (30 Minutes)
 
   - Providing visual verifications to assist in remote troubleshooting
-    (30 Minutes for visual verification + any additional time for
+    (30 Minutes for visual verification plus any additional time for
     troubleshooting)
 
-  - Swapping tapes (customer provided media and containers) (30 Minutes)
+  - Swapping tapes, such as customer-provided media and containers (30 Minutes)
+  
   - Testing cabling media for continuity and proper signaling (60 Minutes
-    per 3 cables)
+    per three cables)
 
-  - Customer provided hardware replacement (hot swappable hardware) (30 Minutes
-    hot swap part, 60 minutes for replacement device)
+  - Customer-provided hardware replacement, such as hot-swappable hardware (30 Minutes
+    for hot-swap, 60 minutes for replacement device)
 
-  - Moving or securing cables (60 Minutes per 3 cables)
+  - Moving or securing cables (60 Minutes per three cables)
 
-  - Customer provided cable replacement (60 Minutes per 3 cables)
+  - Customer-provided cable replacement (60 Minutes per three cables)
 
-Hardware Installation and Decommissioning Services
+**Hardware installation and decommissioning services**
 
-	- Racking and un-racking equipment in customer cabinets (60 Minutes per device
-	  )
+  - Racking and un-racking equipment in customer cabinets (60 Minutes per device)
 
-	-	Connecting and securing customer provided power cords and removal of power
-		cords (30 Minutes per 3 cables)
+      -	Connecting and securing customer-provided power cords and removal of power
+        cords (30 Minutes per three cables)
 
-	-	In-cabinet network cabling with customer provided cabling (60 Minutes per 3
-		cables)
+      -	In-cabinet network cabling with customer-provided cabling (60 Minutes per three
+        cables)
 
-	-	Powering up devices and visual confirmation of hardware status (30 Minutes
-		per 3 devices)
+      -	Powering up devices and visual confirmation of hardware status (30 Minutes
+        per three devices)
 
-	-	Installing and removing cabinet-to-cabinet cabling with customer provided
-		cabling (60 Minutes per cable)
+      -	Installing and removing cabinet-to-cabinet cabling with customer-provided
+        cabling (60 Minutes per cable)
 
-	-	Hard drive and media destruction (30 Minutes per 3 devices)
+      -	Hard drive and media destruction (30 Minutes per three devices)
 
-For all general requests that aren’t Smart Hands, the Customer can select “None”
-under “Type of Request” within the “Colocation Smart Hands and General Support
-Request” within the MyRackspace customer portal and not one of the categories
-above.
+For all general requests that aren’t Smart Hands and are not one of the preceding
+categories, the Customer can select **None** under **Type of Request** within the
+**Colocation Smart Hands and General Support Request** in the Customer Portal.

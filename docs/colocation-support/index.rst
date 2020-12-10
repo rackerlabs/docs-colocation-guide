@@ -28,3 +28,4 @@ continues to run smoothly after you go live.
 
    smart-hands-support.rst
    request-smart-hands.rst
+   submit-tickets.rst
