@@ -14,3 +14,4 @@
 [context.deploy-preview]
   publish = "docs/_build/html"
   command = "cd docs && make clean html && cd .."
+

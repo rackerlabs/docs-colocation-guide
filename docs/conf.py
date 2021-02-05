@@ -32,9 +32,6 @@ except:
 # -- General configuration ------------------------------------------------
 
 
-# Exclude content from elastic search index
-# deconst_default_unsearchable = True
-
 # If your documentation needs a minimal Sphinx version, state it here.
 # needs_sphinx = '1.0'
 
@@ -48,16 +45,7 @@ except:
 extensions = [
     'sphinx.ext.githubpages',
     'sphinx.ext.ifconfig',
-    'sphinx.ext.todo',
-    'sphinx.ext.ifconfig',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.extlinks',
-    'hoverxref.extension',
-    'notfound.extension',
-    'sphinx.ext.coverage',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.viewcode'
+    'sphinx.ext.todo'
 ]
 
 if spelling is not None:
@@ -66,6 +54,10 @@ if spelling is not None:
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+# Add any paths that contain custom static files (such as style sheets) here,
+# relative to this directory. They are copied after the builtin static files,
+# so a file named "default.css" will overwrite the builtin "default.css".
+html_static_path = ['_static']
 
 
 # The suffix of source filenames.
@@ -89,7 +81,6 @@ master_doc = 'index'
 # General information about the project.
 project = 'Rackspace Colocation Customer Guide'
 copyright = '2020, Rackspace'
-author = 'Rackspace'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -224,10 +215,6 @@ html_style = 'css/styles.css'
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
 # using the given strftime format.
 html_last_updated_fmt = '%b %d, %Y'
-
-# If true, SmartyPants will be used to convert quotes and dashes to
-# typographically correct entities.
-html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 # html_sidebars = {}
