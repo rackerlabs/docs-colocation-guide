@@ -15,3 +15,8 @@
   publish = "docs/_build/html"
   command = "cd docs && make clean html && cd .."
 
+[[redirects]]
+  from = "/*"
+  to = "/docs/docs-colocation-guide/:splat"
+  status = 301
+  force = false
