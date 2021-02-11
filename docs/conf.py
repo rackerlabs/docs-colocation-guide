@@ -32,9 +32,6 @@ except:
 # -- General configuration ------------------------------------------------
 
 
-# Exclude content from elastic search index
-# deconst_default_unsearchable = True
-
 # If your documentation needs a minimal Sphinx version, state it here.
 # needs_sphinx = '1.0'
 
@@ -54,19 +51,14 @@ extensions = [
 if spelling is not None:
     extensions.append('sphinxcontrib.spelling')
 
+# Add any paths that contain templates here, relative to this directory.
+templates_path = ['_templates']
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-html_context = {
-    'css_files': [
-        '_static/theme_overrides.css',  # overrides wide tables in RTD theme
-        '_static/bespoke.css',  # custom CSS styling
-        '_static/bolditalic.css',  # bolditalic styling
-    ],
-}
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -85,9 +77,6 @@ source_suffix = '.rst'
 # The master toctree document.
 master_doc = 'index'
 
-# The builder to use when running via the deconst preparer
-# builder = 'deconst-single'
-# builder = 'deconst-serial'
 
 # General information about the project.
 project = 'Rackspace Colocation Customer Guide'
@@ -180,25 +169,21 @@ extlinks = {
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'sphinx_rtd_theme'
+if sphinx_rtd_theme:
+    html_theme = 'sphinx_rtd_theme'
+else:
+    html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 html_theme_options = {
-    #  'typekit_id': 'hiw1hhg'
-    #  'analytics_id':
-    #  'sticky_navigation': False,
-    #  'logo_only':
-    #  'collapse_navigation': False,
-    #  'display_version': False,
-    #  'navigation_depth': 4
-    #  'prev_next_buttons_location': 'bottom'
-    #  'canonical_url':
+    "collapse_navigation" : False
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
-# html_theme_path = []
+import sphinx_rtd_theme
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -214,12 +199,13 @@ html_title = "Rackspace Colocation Customer Guide"
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-# html_favicon = '_static/<ICON>' # It goes a _static dir at the repo root.
+html_favicon = '_static/favicons/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['_static']
+html_static_path = ['_static']
+html_style = 'css/styles.css'
 
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied

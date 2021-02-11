@@ -13,6 +13,8 @@ target/
 build/
 _build/
 /build-*.log.gz
+*.pdf
+glossary.rst
 *.mo
 
 # Python compiled files
@@ -36,3 +38,14 @@ ENV/
 .bak
 /.project
 .python-version
+node_modules
+.vscode
+Gemfile.lock
+.env
+Pipfile.lock
+docs/_build/
+docs/build/
+doc/_build/
+doc/build/
+api-docs/_build/
+api-docs/build/
