@@ -4,10 +4,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     {% block htmltitle %}
     <title>{{ title|striptags|e }}{{ titlesuffix }}</title>
-      {% endblock %}<meta name="description" property="og:description" />
+      {% endblock %}
+    <meta name="description" property="og:description" content="Rackspace Technology Colocation allows you to secure the infrastructure you
+      own within Rackspace Technology™ data centers. This eliminates the costs
+      associated with operating and managing a data center of your own
+      and brings hardware within reach of global multi-cloud networks. These services
+      are available in North America, Europe, the Middle East, Africa (EMEA),
+      Asia Pacific, and Japan (APJ). Customers retain management of their hardware,
+      but we offer Smart Hands as a complimentary service that provides
+      colocation customers access to a highly trained team of technicians and
+      engineers available 24x7x365 for routine physical tasks."/>
     <meta name="category" property="article:section" content="Rackspace Colocation Customer Guide"/>
     <meta name="category" property="product:category" content="Rackspace Colocation Customer Guide"/>
-    <meta name="keywords" property="article:tag" content="Rackspace Colocation Customer Guide"/>    {# CSS #}
+    <meta name="keywords" property="article:tag" content="Colocation, Customer Guide"/>    
+    {# CSS #}
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" />
     <link rel="stylesheet" href="{{ pathto('_static/pygments.css', 1) }}" type="text/css" />
